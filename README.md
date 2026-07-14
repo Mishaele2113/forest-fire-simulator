@@ -6,12 +6,18 @@ A program that provides an introduction to the use of cellular automata as an ap
 
 ## Requirements
 
-* `python3`
-* `numpy`
-* `matplotlib`
-* `scipy`
+* `python` >= 3.12 (with `tkinter` support)
+* `numpy` == 3.11.0
+* `matplotlib` == 2.5.1
+* `scipy` == 1.18.0
 
 ## Usage
+
+Install requirements:
+
+```bash
+pip install -r requirements.txt
+```
 
 Run the program:
 
