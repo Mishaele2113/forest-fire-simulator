@@ -7,9 +7,9 @@ A program that provides an introduction to the use of cellular automata as an ap
 ## Requirements
 
 * `python` >= 3.12 (with `tkinter` support)
-* `matplotlib` == 3.11.0
-* `numpy` == 2.5.1
-* `scipy` == 1.18.0
+* `matplotlib` >= 3.8.0
+* `numpy` >= 1.26.0
+* `scipy` >= 1.12.0
 
 ## Usage
 
